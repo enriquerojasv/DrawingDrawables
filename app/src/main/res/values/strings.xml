@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DrawingDrawables</string>
+    <string name="phrase">If you\'re an artist or part of their management team, \n
+        we\'ll show you how to get the most out of Spotify.</string>
+    <string name="title">Let\'s go.</string>
+    <string name="button_text">GET ACCESS</string>
+</resources>
